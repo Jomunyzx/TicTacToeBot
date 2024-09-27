@@ -1,0 +1,29 @@
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\bin\Debug\net8.0\TicTacToeBot.exe
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\bin\Debug\net8.0\TicTacToeBot.deps.json
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\bin\Debug\net8.0\TicTacToeBot.runtimeconfig.json
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\bin\Debug\net8.0\TicTacToeBot.dll
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\bin\Debug\net8.0\TicTacToeBot.pdb
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.AssemblyInfoInputs.cache
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.AssemblyInfo.cs
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.csproj.CoreCompileInputs.cache
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.sourcelink.json
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.dll
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\obj\Debug\net8.0\refint\TicTacToeBot.dll
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.pdb
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.genruntimeconfig.cache
+C:\Users\Tadeas\Documents\temp (učivo)\WBA\WBA Github Folder\TicTacToeBot\obj\Debug\net8.0\ref\TicTacToeBot.dll
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\bin\Debug\net8.0\TicTacToeBot.exe
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\bin\Debug\net8.0\TicTacToeBot.deps.json
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\bin\Debug\net8.0\TicTacToeBot.runtimeconfig.json
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\bin\Debug\net8.0\TicTacToeBot.dll
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\bin\Debug\net8.0\TicTacToeBot.pdb
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.AssemblyInfoInputs.cache
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.AssemblyInfo.cs
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.csproj.CoreCompileInputs.cache
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.dll
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\refint\TicTacToeBot.dll
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.pdb
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.genruntimeconfig.cache
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\ref\TicTacToeBot.dll
