@@ -7,10 +7,13 @@ class TicTacToe
     static string huPlayer = "X";
     static string aiPlayer = "O";
     static int round = 0;
+    static int score_bot = 0;
+    static int score_pl = 0;
 
     static void Main()
     {
-        Console.WriteLine("Tic Tac Toe: You are Player 'X'. The AI is Player 'O'.");
+        Console.WriteLine("TicTacToe: You're Player 'X'. The Bot is Player 'O'. \n");
+        Console.WriteLine("press any key to continue..");
         Console.ReadLine();
         while (true)
         {
@@ -18,6 +21,7 @@ class TicTacToe
             PlayerMove();
             if (CheckWin(board, huPlayer))
             {
+                score_pl += 1;
                 DrawBoard();
                 Console.WriteLine("YOU WIN!");
                 Console.ReadLine();
@@ -37,6 +41,7 @@ class TicTacToe
             AIBotMove();
             if (CheckWin(board, aiPlayer))
             {
+                score_bot += 1;
                 DrawBoard();
                 Console.WriteLine("YOU LOSE!");
                 Console.ReadLine();
@@ -59,6 +64,8 @@ class TicTacToe
     static void DrawBoard()
     {
         Console.Clear();
+        Console.WriteLine("Score:");
+        Console.WriteLine($"You: {score_pl} | Bot: {score_bot} \n");
         Console.WriteLine($" {board[0]} | {board[1]} | {board[2]} ");
         Console.WriteLine("---+---+---");
         Console.WriteLine($" {board[3]} | {board[4]} | {board[5]} ");
@@ -68,7 +75,7 @@ class TicTacToe
 
     static void PlayerMove()
     {
-        Console.Write("Your move (0-8): ");
+        Console.Write("Your move (1-9): ");
         int move = int.Parse(Console.ReadLine());
 
         if (board[move] != huPlayer && board[move] != aiPlayer)
