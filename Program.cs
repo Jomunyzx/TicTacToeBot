@@ -9,6 +9,7 @@ class TicTacToe
     static int round = 0;
     static int score_bot = 0;
     static int score_pl = 0;
+    static int score_ties = 0;
 
     static void Main()
     {
@@ -50,6 +51,7 @@ class TicTacToe
             }
             else if (round > 8)
             {
+                score_ties += 1;
                 DrawBoard();
                 Console.WriteLine("It's a TIE!");
                 Console.ReadLine();
@@ -65,7 +67,7 @@ class TicTacToe
     {
         Console.Clear();
         Console.WriteLine("Score:");
-        Console.WriteLine($"You: {score_pl} | Bot: {score_bot} \n");
+        Console.WriteLine($"Wins: {score_pl} | Bot wins: {score_bot} | Ties: {score_ties} \n");
         Console.WriteLine($" {board[0]} | {board[1]} | {board[2]} ");
         Console.WriteLine("---+---+---");
         Console.WriteLine($" {board[3]} | {board[4]} | {board[5]} ");

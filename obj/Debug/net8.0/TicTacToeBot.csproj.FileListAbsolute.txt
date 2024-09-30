@@ -27,3 +27,4 @@ C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\refint
 C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.pdb
 C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.genruntimeconfig.cache
 C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\ref\TicTacToeBot.dll
+C:\Users\Tadeas\Documents\temp (učivo)\PVA\TicTacToeBot\obj\Debug\net8.0\TicTacToeBot.sourcelink.json
